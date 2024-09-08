@@ -1,0 +1,553 @@
+2024-09-08 19:47:31,837 - INFO - Video opened: /home/samer/Vidéos/roboflow/webapp/videos/Capture_vidéo_du_28_ماي_2024_CET_031458_ص_wRP2OjP.webm
+2024-09-08 19:47:31,837 - INFO - Video FPS: 1000.0
+2024-09-08 19:47:31,837 - INFO - Total frames: 3995
+2024-09-08 19:47:31,838 - INFO - Frame interval (in frames): 5000
+2024-09-08 19:47:31,909 - INFO - Extracted frame 0: ./output_frames/frame_0000.jpg
+2024-09-08 19:47:32,110 - INFO - Extraction complete. Extracted 1 frames.
+2024-09-08 19:58:10,389 - INFO - /home/samer/Vidéos/roboflow/webapp/prediction/views.py changed, reloading.
+2024-09-08 20:07:38,868 - INFO - Video opened: /home/samer/Vidéos/roboflow/webapp/videos/Capture_vidéo_du_28_ماي_2024_CET_031458_ص_puxF4kl.webm
+2024-09-08 20:07:38,868 - INFO - Video FPS: 1000.0
+2024-09-08 20:07:38,868 - INFO - Total frames: 3995
+2024-09-08 20:07:38,868 - INFO - Frame interval (in frames): 5000
+2024-09-08 20:07:38,925 - INFO - Extracted frame 0: ./output_frames/video_6/frame_0000.jpg
+2024-09-08 20:07:39,137 - INFO - Extraction complete. Extracted 1 frames.
+2024-09-08 20:09:00,437 - INFO - /home/samer/Vidéos/roboflow/webapp/prediction/views.py changed, reloading.
+2024-09-08 20:16:03,219 - INFO - Video opened: /home/samer/Vidéos/roboflow/webapp/videos/test_vid.mp4
+2024-09-08 20:16:03,220 - INFO - Video FPS: 29.97002997002997
+2024-09-08 20:16:03,220 - INFO - Total frames: 892
+2024-09-08 20:16:03,220 - INFO - Frame interval (in frames): 149
+2024-09-08 20:16:03,257 - INFO - Extracted frame 0: ./output_frames/video_7/frame_0000.jpg
+2024-09-08 20:16:03,440 - INFO - Extracted frame 1: ./output_frames/video_7/frame_0001.jpg
+2024-09-08 20:16:03,630 - INFO - Extracted frame 2: ./output_frames/video_7/frame_0002.jpg
+2024-09-08 20:16:03,821 - INFO - Extracted frame 3: ./output_frames/video_7/frame_0003.jpg
+2024-09-08 20:16:04,006 - INFO - Extracted frame 4: ./output_frames/video_7/frame_0004.jpg
+2024-09-08 20:16:04,199 - INFO - Extracted frame 5: ./output_frames/video_7/frame_0005.jpg
+2024-09-08 20:16:04,356 - INFO - Extraction complete. Extracted 6 frames.
+2024-09-08 21:03:57,604 - INFO - /home/samer/Vidéos/roboflow/webapp/prediction/utils.py changed, reloading.
+2024-09-08 21:12:00,520 - INFO - Video opened: /home/samer/Vidéos/roboflow/webapp/videos/test_vid_gKYNQ7s.mp4
+2024-09-08 21:12:00,521 - INFO - Video FPS: 29.97002997002997
+2024-09-08 21:12:00,521 - INFO - Total frames: 892
+2024-09-08 21:12:00,521 - INFO - Frame interval (in frames): 149
+2024-09-08 21:12:00,556 - INFO - Extracted frame 0: ./output_frames/video_8/frame_0000.jpg
+2024-09-08 21:12:00,719 - INFO - Extracted frame 1: ./output_frames/video_8/frame_0001.jpg
+2024-09-08 21:12:00,902 - INFO - Extracted frame 2: ./output_frames/video_8/frame_0002.jpg
+2024-09-08 21:12:01,074 - INFO - Extracted frame 3: ./output_frames/video_8/frame_0003.jpg
+2024-09-08 21:12:01,254 - INFO - Extracted frame 4: ./output_frames/video_8/frame_0004.jpg
+2024-09-08 21:12:01,436 - INFO - Extracted frame 5: ./output_frames/video_8/frame_0005.jpg
+2024-09-08 21:12:01,587 - INFO - Extraction complete. Extracted 6 frames.
+2024-09-08 21:12:01,588 - ERROR - Internal Server Error: /
+2024-09-08 21:12:48,742 - INFO - /home/samer/Vidéos/roboflow/webapp/prediction/utils.py changed, reloading.
+2024-09-08 21:13:19,843 - INFO - Video opened: /home/samer/Vidéos/roboflow/webapp/videos/Capture_vidéo_du_28_ماي_2024_CET_031458_ص_FPnf5D0.webm
+2024-09-08 21:13:19,843 - INFO - Video FPS: 1000.0
+2024-09-08 21:13:19,843 - INFO - Total frames: 3995
+2024-09-08 21:13:19,844 - INFO - Frame interval (in frames): 5000
+2024-09-08 21:13:19,914 - INFO - Extracted frame 0: ./output_frames/video_9/frame_0000.jpg
+2024-09-08 21:13:20,124 - INFO - Extraction complete. Extracted 1 frames.
+2024-09-08 21:13:43,890 - INFO - /home/samer/Vidéos/roboflow/webapp/prediction/utils.py changed, reloading.
+2024-09-08 21:14:00,172 - INFO - Video opened: /home/samer/Vidéos/roboflow/webapp/videos/Capture_vidéo_du_28_ماي_2024_CET_031458_ص_haFH6SL.webm
+2024-09-08 21:14:00,173 - INFO - Video FPS: 1000.0
+2024-09-08 21:14:00,173 - INFO - Total frames: 3995
+2024-09-08 21:14:00,173 - INFO - Frame interval (in frames): 5000
+2024-09-08 21:14:00,241 - INFO - Extracted frame 0: ./output_frames/video_10/frame_0000.jpg
+2024-09-08 21:14:00,458 - INFO - Extraction complete. Extracted 1 frames.
+2024-09-08 21:15:21,259 - INFO - /home/samer/Vidéos/roboflow/webapp/prediction/utils.py changed, reloading.
+2024-09-08 21:16:45,905 - INFO - Video opened: /home/samer/Vidéos/roboflow/webapp/videos/Capture_vidéo_du_28_ماي_2024_CET_031458_ص_AyJiVd8.webm
+2024-09-08 21:16:45,905 - INFO - Video FPS: 1000.0
+2024-09-08 21:16:45,905 - INFO - Total frames: 3995
+2024-09-08 21:16:45,905 - INFO - Frame interval (in frames): 5000
+2024-09-08 21:16:45,987 - INFO - Extracted frame 0: ./output_frames/video_11/frame_0000.jpg
+2024-09-08 21:16:46,189 - INFO - Extraction complete. Extracted 1 frames.
+2024-09-08 21:18:45,483 - INFO - /home/samer/Vidéos/roboflow/webapp/prediction/utils.py changed, reloading.
+2024-09-08 21:19:11,419 - INFO - Video opened: /home/samer/Vidéos/roboflow/webapp/videos/Capture_vidéo_du_28_ماي_2024_CET_031458_ص_I19FbzA.webm
+2024-09-08 21:19:11,420 - INFO - Video FPS: 1000.0
+2024-09-08 21:19:11,420 - INFO - Total frames: 3995
+2024-09-08 21:19:11,420 - INFO - Frame interval (in frames): 5000
+2024-09-08 21:19:11,511 - INFO - Extracted frame 0: ./output_frames/video_12/frame_0000.jpg
+2024-09-08 21:19:11,723 - INFO - Extraction complete. Extracted 1 frames.
+2024-09-08 21:19:59,787 - INFO - /home/samer/Vidéos/roboflow/webapp/prediction/utils.py changed, reloading.
+2024-09-08 21:20:15,655 - INFO - Video opened: /home/samer/Vidéos/roboflow/webapp/videos/Capture_vidéo_du_28_ماي_2024_CET_031458_ص_ME94C9V.webm
+2024-09-08 21:20:15,656 - INFO - Video FPS: 1000.0
+2024-09-08 21:20:15,656 - INFO - Total frames: 3995
+2024-09-08 21:20:15,656 - INFO - Frame interval (in frames): 5000
+2024-09-08 21:20:15,746 - INFO - Extracted frame 0: ./output_frames/video_13/frame_0000.jpg
+2024-09-08 21:20:15,944 - INFO - Extraction complete. Extracted 1 frames.
+2024-09-08 21:20:42,284 - INFO - /home/samer/Vidéos/roboflow/webapp/prediction/utils.py changed, reloading.
+2024-09-08 21:20:57,205 - INFO - Video opened: /home/samer/Vidéos/roboflow/webapp/videos/Capture_vidéo_du_28_ماي_2024_CET_031458_ص_HwQAxTU.webm
+2024-09-08 21:20:57,205 - INFO - Video FPS: 1000.0
+2024-09-08 21:20:57,205 - INFO - Total frames: 3995
+2024-09-08 21:20:57,205 - INFO - Frame interval (in frames): 5000
+2024-09-08 21:20:57,306 - INFO - Extracted frame 0: ./output_frames/video_14/frame_0000.jpg
+2024-09-08 21:20:57,547 - INFO - Extraction complete. Extracted 1 frames.
+2024-09-08 21:22:06,752 - WARNING - Not Found: /favicon.ico
+2024-09-08 21:23:59,234 - INFO - /home/samer/Vidéos/roboflow/webapp/prediction/utils.py changed, reloading.
+2024-09-08 21:24:09,684 - INFO - Video opened: /home/samer/Vidéos/roboflow/webapp/videos/test_vid_GitCbNt.mp4
+2024-09-08 21:24:09,684 - INFO - Video FPS: 29.97002997002997
+2024-09-08 21:24:09,684 - INFO - Total frames: 892
+2024-09-08 21:24:09,684 - INFO - Frame interval (in frames): 149
+2024-09-08 21:24:09,713 - INFO - Extracted frame 0: ./output_frames/video_15/frame_0000.jpg
+2024-09-08 21:24:09,879 - INFO - Extracted frame 1: ./output_frames/video_15/frame_0001.jpg
+2024-09-08 21:24:10,070 - INFO - Extracted frame 2: ./output_frames/video_15/frame_0002.jpg
+2024-09-08 21:24:10,399 - INFO - Extracted frame 3: ./output_frames/video_15/frame_0003.jpg
+2024-09-08 21:24:10,574 - INFO - Extracted frame 4: ./output_frames/video_15/frame_0004.jpg
+2024-09-08 21:24:10,749 - INFO - Extracted frame 5: ./output_frames/video_15/frame_0005.jpg
+2024-09-08 21:24:10,897 - INFO - Extraction complete. Extracted 6 frames.
+2024-09-08 21:25:15,374 - INFO - /home/samer/Vidéos/roboflow/webapp/prediction/utils.py changed, reloading.
+2024-09-08 21:26:04,462 - INFO - Video opened: /home/samer/Vidéos/roboflow/webapp/videos/test_vid_O3HVvOX.mp4
+2024-09-08 21:26:04,463 - INFO - Video FPS: 29.97002997002997
+2024-09-08 21:26:04,463 - INFO - Total frames: 892
+2024-09-08 21:26:04,463 - INFO - Frame interval (in frames): 149
+2024-09-08 21:26:04,490 - INFO - Extracted frame 0: ./output_frames/video_16/frame_0000.jpg
+2024-09-08 21:26:04,690 - INFO - Extracted frame 1: ./output_frames/video_16/frame_0001.jpg
+2024-09-08 21:26:04,884 - INFO - Extracted frame 2: ./output_frames/video_16/frame_0002.jpg
+2024-09-08 21:26:05,087 - INFO - Extracted frame 3: ./output_frames/video_16/frame_0003.jpg
+2024-09-08 21:26:05,273 - INFO - Extracted frame 4: ./output_frames/video_16/frame_0004.jpg
+2024-09-08 21:26:05,445 - INFO - Extracted frame 5: ./output_frames/video_16/frame_0005.jpg
+2024-09-08 21:26:05,566 - INFO - Extraction complete. Extracted 6 frames.
+2024-09-08 22:00:48,329 - INFO - /home/samer/Vidéos/roboflow/webapp/prediction/utils.py changed, reloading.
+2024-09-08 22:01:49,261 - INFO - Video opened: /home/samer/Vidéos/roboflow/webapp/videos/test_vid_hzDgXyw.mp4
+2024-09-08 22:01:49,261 - INFO - Video FPS: 29.97002997002997
+2024-09-08 22:01:49,261 - INFO - Total frames: 892
+2024-09-08 22:01:49,261 - INFO - Frame interval (in frames): 149
+2024-09-08 22:01:49,285 - INFO - Extracted frame 0: ./output_frames/video_17/frame_0000.jpg
+2024-09-08 22:01:49,462 - INFO - Extracted frame 1: ./output_frames/video_17/frame_0001.jpg
+2024-09-08 22:01:49,637 - INFO - Extracted frame 2: ./output_frames/video_17/frame_0002.jpg
+2024-09-08 22:01:49,813 - INFO - Extracted frame 3: ./output_frames/video_17/frame_0003.jpg
+2024-09-08 22:01:49,999 - INFO - Extracted frame 4: ./output_frames/video_17/frame_0004.jpg
+2024-09-08 22:01:50,166 - INFO - Extracted frame 5: ./output_frames/video_17/frame_0005.jpg
+2024-09-08 22:01:50,278 - INFO - Extraction complete. Extracted 6 frames.
+2024-09-08 22:03:23,194 - INFO - /home/samer/Vidéos/roboflow/webapp/prediction/utils.py changed, reloading.
+2024-09-08 22:03:46,527 - INFO - Video opened: /home/samer/Vidéos/roboflow/webapp/videos/test_vid_ggKZxj5.mp4
+2024-09-08 22:03:46,527 - INFO - Video FPS: 29.97002997002997
+2024-09-08 22:03:46,527 - INFO - Total frames: 892
+2024-09-08 22:03:46,527 - INFO - Frame interval (in frames): 149
+2024-09-08 22:03:46,553 - INFO - Extracted frame 0: ./output_frames/video_18/frame_0000.jpg
+2024-09-08 22:03:46,748 - INFO - Extracted frame 1: ./output_frames/video_18/frame_0001.jpg
+2024-09-08 22:03:46,934 - INFO - Extracted frame 2: ./output_frames/video_18/frame_0002.jpg
+2024-09-08 22:03:47,127 - INFO - Extracted frame 3: ./output_frames/video_18/frame_0003.jpg
+2024-09-08 22:03:47,316 - INFO - Extracted frame 4: ./output_frames/video_18/frame_0004.jpg
+2024-09-08 22:03:47,487 - INFO - Extracted frame 5: ./output_frames/video_18/frame_0005.jpg
+2024-09-08 22:03:47,650 - INFO - Extraction complete. Extracted 6 frames.
+2024-09-08 22:04:12,097 - ERROR - Internal Server Error: /
+2024-09-08 22:04:36,273 - INFO - /home/samer/Vidéos/roboflow/webapp/prediction/utils.py changed, reloading.
+2024-09-08 22:05:12,445 - INFO - Video opened: /home/samer/Vidéos/roboflow/webapp/videos/test_vid_o6KTQVd.mp4
+2024-09-08 22:05:12,446 - INFO - Video FPS: 29.97002997002997
+2024-09-08 22:05:12,446 - INFO - Total frames: 892
+2024-09-08 22:05:12,446 - INFO - Frame interval (in frames): 149
+2024-09-08 22:05:12,473 - INFO - Extracted frame 0: ./output_frames/video_19/frame_0000.jpg
+2024-09-08 22:05:12,646 - INFO - Extracted frame 1: ./output_frames/video_19/frame_0001.jpg
+2024-09-08 22:05:12,819 - INFO - Extracted frame 2: ./output_frames/video_19/frame_0002.jpg
+2024-09-08 22:05:12,986 - INFO - Extracted frame 3: ./output_frames/video_19/frame_0003.jpg
+2024-09-08 22:05:13,166 - INFO - Extracted frame 4: ./output_frames/video_19/frame_0004.jpg
+2024-09-08 22:05:13,338 - INFO - Extracted frame 5: ./output_frames/video_19/frame_0005.jpg
+2024-09-08 22:05:13,488 - INFO - Extraction complete. Extracted 6 frames.
+2024-09-08 22:05:19,753 - INFO - Video opened: /home/samer/Vidéos/roboflow/webapp/videos/test_vid_QfxZg56.mp4
+2024-09-08 22:05:19,753 - INFO - Video FPS: 29.97002997002997
+2024-09-08 22:05:19,753 - INFO - Total frames: 892
+2024-09-08 22:05:19,753 - INFO - Frame interval (in frames): 149
+2024-09-08 22:05:19,775 - INFO - Extracted frame 0: ./output_frames/video_20/frame_0000.jpg
+2024-09-08 22:05:19,990 - INFO - Extracted frame 1: ./output_frames/video_20/frame_0001.jpg
+2024-09-08 22:05:20,194 - INFO - Extracted frame 2: ./output_frames/video_20/frame_0002.jpg
+2024-09-08 22:05:20,401 - INFO - Extracted frame 3: ./output_frames/video_20/frame_0003.jpg
+2024-09-08 22:05:20,604 - INFO - Extracted frame 4: ./output_frames/video_20/frame_0004.jpg
+2024-09-08 22:05:20,817 - INFO - Extracted frame 5: ./output_frames/video_20/frame_0005.jpg
+2024-09-08 22:05:20,995 - INFO - Extraction complete. Extracted 6 frames.
+2024-09-08 22:05:39,351 - ERROR - Internal Server Error: /
+2024-09-08 22:05:46,428 - ERROR - Internal Server Error: /
+2024-09-08 22:06:09,456 - INFO - /home/samer/Vidéos/roboflow/webapp/prediction/utils.py changed, reloading.
+2024-09-08 22:06:14,850 - INFO - Video opened: /home/samer/Vidéos/roboflow/webapp/videos/test_vid_7mTICbO.mp4
+2024-09-08 22:06:14,850 - INFO - Video FPS: 29.97002997002997
+2024-09-08 22:06:14,850 - INFO - Total frames: 892
+2024-09-08 22:06:14,850 - INFO - Frame interval (in frames): 149
+2024-09-08 22:06:14,877 - INFO - Extracted frame 0: ./output_frames/video_21/frame_0000.jpg
+2024-09-08 22:06:15,065 - INFO - Extracted frame 1: ./output_frames/video_21/frame_0001.jpg
+2024-09-08 22:06:15,263 - INFO - Extracted frame 2: ./output_frames/video_21/frame_0002.jpg
+2024-09-08 22:06:15,426 - INFO - Extracted frame 3: ./output_frames/video_21/frame_0003.jpg
+2024-09-08 22:06:15,611 - INFO - Extracted frame 4: ./output_frames/video_21/frame_0004.jpg
+2024-09-08 22:06:15,811 - INFO - Extracted frame 5: ./output_frames/video_21/frame_0005.jpg
+2024-09-08 22:06:16,007 - INFO - Extraction complete. Extracted 6 frames.
+2024-09-08 22:07:05,151 - INFO - /home/samer/Vidéos/roboflow/webapp/prediction/utils.py changed, reloading.
+2024-09-08 22:07:38,129 - INFO - Video opened: /home/samer/Vidéos/roboflow/webapp/videos/test_vid_79uPTMa.mp4
+2024-09-08 22:07:38,129 - INFO - Video FPS: 29.97002997002997
+2024-09-08 22:07:38,129 - INFO - Total frames: 892
+2024-09-08 22:07:38,129 - INFO - Frame interval (in frames): 149
+2024-09-08 22:07:38,157 - INFO - Extracted frame 0: ./output_frames/video_22/frame_0000.jpg
+2024-09-08 22:07:38,350 - INFO - Extracted frame 1: ./output_frames/video_22/frame_0001.jpg
+2024-09-08 22:07:38,529 - INFO - Extracted frame 2: ./output_frames/video_22/frame_0002.jpg
+2024-09-08 22:07:38,738 - INFO - Extracted frame 3: ./output_frames/video_22/frame_0003.jpg
+2024-09-08 22:07:38,932 - INFO - Extracted frame 4: ./output_frames/video_22/frame_0004.jpg
+2024-09-08 22:07:39,091 - INFO - Extracted frame 5: ./output_frames/video_22/frame_0005.jpg
+2024-09-08 22:07:39,234 - INFO - Extraction complete. Extracted 6 frames.
+2024-09-08 22:11:03,445 - INFO - /home/samer/Vidéos/roboflow/webapp/prediction/utils.py changed, reloading.
+2024-09-08 22:11:17,252 - INFO - Video opened: /home/samer/Vidéos/roboflow/webapp/videos/test_vid_RKIegVs.mp4
+2024-09-08 22:11:17,253 - INFO - Video FPS: 29.97002997002997
+2024-09-08 22:11:17,253 - INFO - Total frames: 892
+2024-09-08 22:11:17,253 - INFO - Frame interval (in frames): 149
+2024-09-08 22:11:17,280 - INFO - Extracted frame 0: ./output_frames/video_23/frame_0000.jpg
+2024-09-08 22:11:17,499 - INFO - Extracted frame 1: ./output_frames/video_23/frame_0001.jpg
+2024-09-08 22:11:17,700 - INFO - Extracted frame 2: ./output_frames/video_23/frame_0002.jpg
+2024-09-08 22:11:17,889 - INFO - Extracted frame 3: ./output_frames/video_23/frame_0003.jpg
+2024-09-08 22:11:18,073 - INFO - Extracted frame 4: ./output_frames/video_23/frame_0004.jpg
+2024-09-08 22:11:18,264 - INFO - Extracted frame 5: ./output_frames/video_23/frame_0005.jpg
+2024-09-08 22:11:18,415 - INFO - Extraction complete. Extracted 6 frames.
+2024-09-08 22:12:51,844 - INFO - /home/samer/Vidéos/roboflow/webapp/prediction/utils.py changed, reloading.
+2024-09-08 22:13:04,212 - INFO - Video opened: /home/samer/Vidéos/roboflow/webapp/videos/test_vid_N0vKFuA.mp4
+2024-09-08 22:13:04,212 - INFO - Video FPS: 29.97002997002997
+2024-09-08 22:13:04,212 - INFO - Total frames: 892
+2024-09-08 22:13:04,212 - INFO - Frame interval (in frames): 149
+2024-09-08 22:13:04,241 - INFO - Extracted frame 0: ./output_frames/video_24/frame_0000.jpg
+2024-09-08 22:13:04,434 - INFO - Extracted frame 1: ./output_frames/video_24/frame_0001.jpg
+2024-09-08 22:13:04,636 - INFO - Extracted frame 2: ./output_frames/video_24/frame_0002.jpg
+2024-09-08 22:13:04,838 - INFO - Extracted frame 3: ./output_frames/video_24/frame_0003.jpg
+2024-09-08 22:13:05,036 - INFO - Extracted frame 4: ./output_frames/video_24/frame_0004.jpg
+2024-09-08 22:13:05,224 - INFO - Extracted frame 5: ./output_frames/video_24/frame_0005.jpg
+2024-09-08 22:13:05,377 - INFO - Extraction complete. Extracted 6 frames.
+2024-09-08 22:14:36,305 - INFO - /home/samer/Vidéos/roboflow/webapp/prediction/utils.py changed, reloading.
+2024-09-08 22:14:44,932 - INFO - Video opened: /home/samer/Vidéos/roboflow/webapp/videos/test_vid_2cccFYl.mp4
+2024-09-08 22:14:44,933 - INFO - Video FPS: 29.97002997002997
+2024-09-08 22:14:44,933 - INFO - Total frames: 892
+2024-09-08 22:14:44,933 - INFO - Frame interval (in frames): 149
+2024-09-08 22:14:44,958 - INFO - Extracted frame 0: ./output_frames/video_25/frame_0000.jpg
+2024-09-08 22:14:45,162 - INFO - Extracted frame 1: ./output_frames/video_25/frame_0001.jpg
+2024-09-08 22:14:45,364 - INFO - Extracted frame 2: ./output_frames/video_25/frame_0002.jpg
+2024-09-08 22:14:45,585 - INFO - Extracted frame 3: ./output_frames/video_25/frame_0003.jpg
+2024-09-08 22:14:45,766 - INFO - Extracted frame 4: ./output_frames/video_25/frame_0004.jpg
+2024-09-08 22:14:45,945 - INFO - Extracted frame 5: ./output_frames/video_25/frame_0005.jpg
+2024-09-08 22:14:46,095 - INFO - Extraction complete. Extracted 6 frames.
+2024-09-08 22:15:34,164 - INFO - /home/samer/Vidéos/roboflow/webapp/prediction/utils.py changed, reloading.
+2024-09-08 22:15:40,426 - INFO - Video opened: /home/samer/Vidéos/roboflow/webapp/videos/test_vid_U7lcK0z.mp4
+2024-09-08 22:15:40,426 - INFO - Video FPS: 29.97002997002997
+2024-09-08 22:15:40,426 - INFO - Total frames: 892
+2024-09-08 22:15:40,427 - INFO - Frame interval (in frames): 149
+2024-09-08 22:15:40,461 - INFO - Extracted frame 0: ./output_frames/video_26/frame_0000.jpg
+2024-09-08 22:15:40,657 - INFO - Extracted frame 1: ./output_frames/video_26/frame_0001.jpg
+2024-09-08 22:15:40,846 - INFO - Extracted frame 2: ./output_frames/video_26/frame_0002.jpg
+2024-09-08 22:15:41,039 - INFO - Extracted frame 3: ./output_frames/video_26/frame_0003.jpg
+2024-09-08 22:15:41,226 - INFO - Extracted frame 4: ./output_frames/video_26/frame_0004.jpg
+2024-09-08 22:15:41,422 - INFO - Extracted frame 5: ./output_frames/video_26/frame_0005.jpg
+2024-09-08 22:15:41,567 - INFO - Extraction complete. Extracted 6 frames.
+2024-09-08 22:17:07,540 - INFO - /home/samer/Vidéos/roboflow/webapp/prediction/models.py changed, reloading.
+2024-09-08 22:23:36,411 - INFO - Video opened: /home/samer/Vidéos/roboflow/webapp/videos/test_vid_8alRz2p.mp4
+2024-09-08 22:23:36,411 - INFO - Video FPS: 25.0
+2024-09-08 22:23:36,411 - INFO - Total frames: 13722
+2024-09-08 22:23:36,411 - INFO - Frame interval (in frames): 125
+2024-09-08 22:23:36,448 - INFO - Extracted frame 0: ./output_frames/video_27/frame_0000.jpg
+2024-09-08 22:23:36,616 - INFO - Extracted frame 1: ./output_frames/video_27/frame_0001.jpg
+2024-09-08 22:23:36,791 - INFO - Extracted frame 2: ./output_frames/video_27/frame_0002.jpg
+2024-09-08 22:23:36,972 - INFO - Extracted frame 3: ./output_frames/video_27/frame_0003.jpg
+2024-09-08 22:23:37,150 - INFO - Extracted frame 4: ./output_frames/video_27/frame_0004.jpg
+2024-09-08 22:23:37,320 - INFO - Extracted frame 5: ./output_frames/video_27/frame_0005.jpg
+2024-09-08 22:23:37,494 - INFO - Extracted frame 6: ./output_frames/video_27/frame_0006.jpg
+2024-09-08 22:23:37,659 - INFO - Extracted frame 7: ./output_frames/video_27/frame_0007.jpg
+2024-09-08 22:23:37,787 - INFO - Extracted frame 8: ./output_frames/video_27/frame_0008.jpg
+2024-09-08 22:23:37,950 - INFO - Extracted frame 9: ./output_frames/video_27/frame_0009.jpg
+2024-09-08 22:23:38,087 - INFO - Processed 1250 frames out of 13722
+2024-09-08 22:23:38,104 - INFO - Extracted frame 10: ./output_frames/video_27/frame_0010.jpg
+2024-09-08 22:23:38,250 - INFO - Extracted frame 11: ./output_frames/video_27/frame_0011.jpg
+2024-09-08 22:23:38,417 - INFO - Extracted frame 12: ./output_frames/video_27/frame_0012.jpg
+2024-09-08 22:23:38,559 - INFO - Extracted frame 13: ./output_frames/video_27/frame_0013.jpg
+2024-09-08 22:23:38,707 - INFO - Extracted frame 14: ./output_frames/video_27/frame_0014.jpg
+2024-09-08 22:23:38,863 - INFO - Extracted frame 15: ./output_frames/video_27/frame_0015.jpg
+2024-09-08 22:23:39,007 - INFO - Extracted frame 16: ./output_frames/video_27/frame_0016.jpg
+2024-09-08 22:23:39,164 - INFO - Extracted frame 17: ./output_frames/video_27/frame_0017.jpg
+2024-09-08 22:23:39,326 - INFO - Extracted frame 18: ./output_frames/video_27/frame_0018.jpg
+2024-09-08 22:23:39,526 - INFO - Extracted frame 19: ./output_frames/video_27/frame_0019.jpg
+2024-09-08 22:23:39,695 - INFO - Processed 2500 frames out of 13722
+2024-09-08 22:23:39,712 - INFO - Extracted frame 20: ./output_frames/video_27/frame_0020.jpg
+2024-09-08 22:23:39,864 - INFO - Extracted frame 21: ./output_frames/video_27/frame_0021.jpg
+2024-09-08 22:23:40,011 - INFO - Extracted frame 22: ./output_frames/video_27/frame_0022.jpg
+2024-09-08 22:23:40,164 - INFO - Extracted frame 23: ./output_frames/video_27/frame_0023.jpg
+2024-09-08 22:23:40,318 - INFO - Extracted frame 24: ./output_frames/video_27/frame_0024.jpg
+2024-09-08 22:23:40,466 - INFO - Extracted frame 25: ./output_frames/video_27/frame_0025.jpg
+2024-09-08 22:23:40,628 - INFO - Extracted frame 26: ./output_frames/video_27/frame_0026.jpg
+2024-09-08 22:23:40,797 - INFO - Extracted frame 27: ./output_frames/video_27/frame_0027.jpg
+2024-09-08 22:23:40,953 - INFO - Extracted frame 28: ./output_frames/video_27/frame_0028.jpg
+2024-09-08 22:23:41,127 - INFO - Extracted frame 29: ./output_frames/video_27/frame_0029.jpg
+2024-09-08 22:23:41,282 - INFO - Processed 3750 frames out of 13722
+2024-09-08 22:23:41,298 - INFO - Extracted frame 30: ./output_frames/video_27/frame_0030.jpg
+2024-09-08 22:23:41,451 - INFO - Extracted frame 31: ./output_frames/video_27/frame_0031.jpg
+2024-09-08 22:23:41,607 - INFO - Extracted frame 32: ./output_frames/video_27/frame_0032.jpg
+2024-09-08 22:23:41,764 - INFO - Extracted frame 33: ./output_frames/video_27/frame_0033.jpg
+2024-09-08 22:23:41,928 - INFO - Extracted frame 34: ./output_frames/video_27/frame_0034.jpg
+2024-09-08 22:23:42,106 - INFO - Extracted frame 35: ./output_frames/video_27/frame_0035.jpg
+2024-09-08 22:23:42,252 - INFO - Extracted frame 36: ./output_frames/video_27/frame_0036.jpg
+2024-09-08 22:23:42,421 - INFO - Extracted frame 37: ./output_frames/video_27/frame_0037.jpg
+2024-09-08 22:23:42,580 - INFO - Extracted frame 38: ./output_frames/video_27/frame_0038.jpg
+2024-09-08 22:23:42,729 - INFO - Extracted frame 39: ./output_frames/video_27/frame_0039.jpg
+2024-09-08 22:23:42,880 - INFO - Processed 5000 frames out of 13722
+2024-09-08 22:23:42,899 - INFO - Extracted frame 40: ./output_frames/video_27/frame_0040.jpg
+2024-09-08 22:23:43,062 - INFO - Extracted frame 41: ./output_frames/video_27/frame_0041.jpg
+2024-09-08 22:23:43,225 - INFO - Extracted frame 42: ./output_frames/video_27/frame_0042.jpg
+2024-09-08 22:23:43,385 - INFO - Extracted frame 43: ./output_frames/video_27/frame_0043.jpg
+2024-09-08 22:23:43,544 - INFO - Extracted frame 44: ./output_frames/video_27/frame_0044.jpg
+2024-09-08 22:23:43,712 - INFO - Extracted frame 45: ./output_frames/video_27/frame_0045.jpg
+2024-09-08 22:23:43,868 - INFO - Extracted frame 46: ./output_frames/video_27/frame_0046.jpg
+2024-09-08 22:23:44,011 - INFO - Extracted frame 47: ./output_frames/video_27/frame_0047.jpg
+2024-09-08 22:23:44,181 - INFO - Extracted frame 48: ./output_frames/video_27/frame_0048.jpg
+2024-09-08 22:23:44,348 - INFO - Extracted frame 49: ./output_frames/video_27/frame_0049.jpg
+2024-09-08 22:23:44,482 - INFO - Processed 6250 frames out of 13722
+2024-09-08 22:23:44,496 - INFO - Extracted frame 50: ./output_frames/video_27/frame_0050.jpg
+2024-09-08 22:23:44,664 - INFO - Extracted frame 51: ./output_frames/video_27/frame_0051.jpg
+2024-09-08 22:23:44,814 - INFO - Extracted frame 52: ./output_frames/video_27/frame_0052.jpg
+2024-09-08 22:23:44,981 - INFO - Extracted frame 53: ./output_frames/video_27/frame_0053.jpg
+2024-09-08 22:23:45,157 - INFO - Extracted frame 54: ./output_frames/video_27/frame_0054.jpg
+2024-09-08 22:23:45,320 - INFO - Extracted frame 55: ./output_frames/video_27/frame_0055.jpg
+2024-09-08 22:23:45,494 - INFO - Extracted frame 56: ./output_frames/video_27/frame_0056.jpg
+2024-09-08 22:23:45,662 - INFO - Extracted frame 57: ./output_frames/video_27/frame_0057.jpg
+2024-09-08 22:23:45,806 - INFO - Extracted frame 58: ./output_frames/video_27/frame_0058.jpg
+2024-09-08 22:23:45,969 - INFO - Extracted frame 59: ./output_frames/video_27/frame_0059.jpg
+2024-09-08 22:23:46,124 - INFO - Processed 7500 frames out of 13722
+2024-09-08 22:23:46,143 - INFO - Extracted frame 60: ./output_frames/video_27/frame_0060.jpg
+2024-09-08 22:23:46,343 - INFO - Extracted frame 61: ./output_frames/video_27/frame_0061.jpg
+2024-09-08 22:23:46,513 - INFO - Extracted frame 62: ./output_frames/video_27/frame_0062.jpg
+2024-09-08 22:23:46,676 - INFO - Extracted frame 63: ./output_frames/video_27/frame_0063.jpg
+2024-09-08 22:23:46,847 - INFO - Extracted frame 64: ./output_frames/video_27/frame_0064.jpg
+2024-09-08 22:23:47,009 - INFO - Extracted frame 65: ./output_frames/video_27/frame_0065.jpg
+2024-09-08 22:23:47,171 - INFO - Extracted frame 66: ./output_frames/video_27/frame_0066.jpg
+2024-09-08 22:23:47,336 - INFO - Extracted frame 67: ./output_frames/video_27/frame_0067.jpg
+2024-09-08 22:23:47,485 - INFO - Extracted frame 68: ./output_frames/video_27/frame_0068.jpg
+2024-09-08 22:23:47,650 - INFO - Extracted frame 69: ./output_frames/video_27/frame_0069.jpg
+2024-09-08 22:23:47,806 - INFO - Processed 8750 frames out of 13722
+2024-09-08 22:23:47,828 - INFO - Extracted frame 70: ./output_frames/video_27/frame_0070.jpg
+2024-09-08 22:23:47,992 - INFO - Extracted frame 71: ./output_frames/video_27/frame_0071.jpg
+2024-09-08 22:23:48,154 - INFO - Extracted frame 72: ./output_frames/video_27/frame_0072.jpg
+2024-09-08 22:23:48,325 - INFO - Extracted frame 73: ./output_frames/video_27/frame_0073.jpg
+2024-09-08 22:23:48,482 - INFO - Extracted frame 74: ./output_frames/video_27/frame_0074.jpg
+2024-09-08 22:23:48,657 - INFO - Extracted frame 75: ./output_frames/video_27/frame_0075.jpg
+2024-09-08 22:23:48,813 - INFO - Extracted frame 76: ./output_frames/video_27/frame_0076.jpg
+2024-09-08 22:23:48,978 - INFO - Extracted frame 77: ./output_frames/video_27/frame_0077.jpg
+2024-09-08 22:23:49,144 - INFO - Extracted frame 78: ./output_frames/video_27/frame_0078.jpg
+2024-09-08 22:23:49,307 - INFO - Extracted frame 79: ./output_frames/video_27/frame_0079.jpg
+2024-09-08 22:23:49,541 - INFO - Processed 10000 frames out of 13722
+2024-09-08 22:23:49,564 - INFO - Extracted frame 80: ./output_frames/video_27/frame_0080.jpg
+2024-09-08 22:23:49,721 - INFO - Extracted frame 81: ./output_frames/video_27/frame_0081.jpg
+2024-09-08 22:23:49,883 - INFO - Extracted frame 82: ./output_frames/video_27/frame_0082.jpg
+2024-09-08 22:23:50,035 - INFO - Extracted frame 83: ./output_frames/video_27/frame_0083.jpg
+2024-09-08 22:23:50,212 - INFO - Extracted frame 84: ./output_frames/video_27/frame_0084.jpg
+2024-09-08 22:23:50,386 - INFO - Extracted frame 85: ./output_frames/video_27/frame_0085.jpg
+2024-09-08 22:23:50,564 - INFO - Extracted frame 86: ./output_frames/video_27/frame_0086.jpg
+2024-09-08 22:23:50,734 - INFO - Extracted frame 87: ./output_frames/video_27/frame_0087.jpg
+2024-09-08 22:23:50,896 - INFO - Extracted frame 88: ./output_frames/video_27/frame_0088.jpg
+2024-09-08 22:23:51,058 - INFO - Extracted frame 89: ./output_frames/video_27/frame_0089.jpg
+2024-09-08 22:23:51,210 - INFO - Processed 11250 frames out of 13722
+2024-09-08 22:23:51,228 - INFO - Extracted frame 90: ./output_frames/video_27/frame_0090.jpg
+2024-09-08 22:23:51,398 - INFO - Extracted frame 91: ./output_frames/video_27/frame_0091.jpg
+2024-09-08 22:23:51,571 - INFO - Extracted frame 92: ./output_frames/video_27/frame_0092.jpg
+2024-09-08 22:23:51,714 - INFO - Extracted frame 93: ./output_frames/video_27/frame_0093.jpg
+2024-09-08 22:23:51,890 - INFO - Extracted frame 94: ./output_frames/video_27/frame_0094.jpg
+2024-09-08 22:23:52,063 - INFO - Extracted frame 95: ./output_frames/video_27/frame_0095.jpg
+2024-09-08 22:23:52,233 - INFO - Extracted frame 96: ./output_frames/video_27/frame_0096.jpg
+2024-09-08 22:23:52,413 - INFO - Extracted frame 97: ./output_frames/video_27/frame_0097.jpg
+2024-09-08 22:23:52,586 - INFO - Extracted frame 98: ./output_frames/video_27/frame_0098.jpg
+2024-09-08 22:23:52,730 - INFO - Extracted frame 99: ./output_frames/video_27/frame_0099.jpg
+2024-09-08 22:23:52,882 - INFO - Processed 12500 frames out of 13722
+2024-09-08 22:23:52,902 - INFO - Extracted frame 100: ./output_frames/video_27/frame_0100.jpg
+2024-09-08 22:23:53,081 - INFO - Extracted frame 101: ./output_frames/video_27/frame_0101.jpg
+2024-09-08 22:23:53,265 - INFO - Extracted frame 102: ./output_frames/video_27/frame_0102.jpg
+2024-09-08 22:23:53,439 - INFO - Extracted frame 103: ./output_frames/video_27/frame_0103.jpg
+2024-09-08 22:23:53,592 - INFO - Extracted frame 104: ./output_frames/video_27/frame_0104.jpg
+2024-09-08 22:23:53,761 - INFO - Extracted frame 105: ./output_frames/video_27/frame_0105.jpg
+2024-09-08 22:23:53,937 - INFO - Extracted frame 106: ./output_frames/video_27/frame_0106.jpg
+2024-09-08 22:23:54,161 - INFO - Extracted frame 107: ./output_frames/video_27/frame_0107.jpg
+2024-09-08 22:23:54,331 - INFO - Extracted frame 108: ./output_frames/video_27/frame_0108.jpg
+2024-09-08 22:23:54,474 - INFO - Extracted frame 109: ./output_frames/video_27/frame_0109.jpg
+2024-09-08 22:23:54,588 - INFO - Extraction complete. Extracted 110 frames.
+2024-09-08 22:33:04,030 - INFO - /home/samer/Vidéos/roboflow/webapp/prediction/views.py changed, reloading.
+2024-09-08 22:34:05,461 - INFO - Video opened: /home/samer/Vidéos/roboflow/webapp/videos/test_vid_13yaPeC.mp4
+2024-09-08 22:34:05,462 - INFO - Video FPS: 29.97002997002997
+2024-09-08 22:34:05,462 - INFO - Total frames: 892
+2024-09-08 22:34:05,462 - INFO - Frame interval (in frames): 149
+2024-09-08 22:34:05,487 - INFO - Extracted frame 0: ./output_frames/video_28/frame_0000.jpg
+2024-09-08 22:34:05,678 - INFO - Extracted frame 1: ./output_frames/video_28/frame_0001.jpg
+2024-09-08 22:34:05,870 - INFO - Extracted frame 2: ./output_frames/video_28/frame_0002.jpg
+2024-09-08 22:34:06,069 - INFO - Extracted frame 3: ./output_frames/video_28/frame_0003.jpg
+2024-09-08 22:34:06,314 - INFO - Extracted frame 4: ./output_frames/video_28/frame_0004.jpg
+2024-09-08 22:34:06,516 - INFO - Extracted frame 5: ./output_frames/video_28/frame_0005.jpg
+2024-09-08 22:34:06,669 - INFO - Extraction complete. Extracted 6 frames.
+2024-09-08 22:36:11,043 - INFO - /home/samer/Vidéos/roboflow/webapp/webapp/settings.py changed, reloading.
+2024-09-08 23:03:42,796 - INFO - Video opened: /home/samer/Vidéos/roboflow/webapp/videos/test_vid_4zV3Lsr.mp4
+2024-09-08 23:03:42,796 - INFO - Video FPS: 29.97002997002997
+2024-09-08 23:03:42,796 - INFO - Total frames: 892
+2024-09-08 23:03:42,796 - INFO - Frame interval (in frames): 149
+2024-09-08 23:03:42,836 - INFO - Extracted frame 0: ./output_frames/video_29/frame_0000.jpg
+2024-09-08 23:03:43,039 - INFO - Extracted frame 1: ./output_frames/video_29/frame_0001.jpg
+2024-09-08 23:03:43,207 - INFO - Extracted frame 2: ./output_frames/video_29/frame_0002.jpg
+2024-09-08 23:03:43,389 - INFO - Extracted frame 3: ./output_frames/video_29/frame_0003.jpg
+2024-09-08 23:03:43,568 - INFO - Extracted frame 4: ./output_frames/video_29/frame_0004.jpg
+2024-09-08 23:03:43,739 - INFO - Extracted frame 5: ./output_frames/video_29/frame_0005.jpg
+2024-09-08 23:03:43,872 - INFO - Extraction complete. Extracted 6 frames.
+2024-09-08 23:05:50,379 - INFO - /home/samer/Vidéos/roboflow/webapp/prediction/views.py changed, reloading.
+2024-09-08 23:06:14,096 - INFO - Video opened: /home/samer/Vidéos/roboflow/webapp/videos/test_vid_ktl41SW.mp4
+2024-09-08 23:06:14,096 - INFO - Video FPS: 29.97002997002997
+2024-09-08 23:06:14,096 - INFO - Total frames: 892
+2024-09-08 23:06:14,096 - INFO - Frame interval (in frames): 149
+2024-09-08 23:06:14,143 - INFO - Extracted frame 0: ./output_frames/video_30/frame_0000.jpg
+2024-09-08 23:06:14,364 - INFO - Extracted frame 1: ./output_frames/video_30/frame_0001.jpg
+2024-09-08 23:06:14,535 - INFO - Extracted frame 2: ./output_frames/video_30/frame_0002.jpg
+2024-09-08 23:06:14,712 - INFO - Extracted frame 3: ./output_frames/video_30/frame_0003.jpg
+2024-09-08 23:06:14,913 - INFO - Extracted frame 4: ./output_frames/video_30/frame_0004.jpg
+2024-09-08 23:06:15,083 - INFO - Extracted frame 5: ./output_frames/video_30/frame_0005.jpg
+2024-09-08 23:06:15,213 - INFO - Extraction complete. Extracted 6 frames.
+2024-09-08 23:11:51,601 - INFO - /home/samer/Vidéos/roboflow/webapp/webapp/settings.py changed, reloading.
+2024-09-08 23:16:27,822 - INFO - Video opened: /home/samer/Vidéos/roboflow/webapp/ouput_videos/videos/test_vid.mp4
+2024-09-08 23:16:27,822 - INFO - Video FPS: 29.97002997002997
+2024-09-08 23:16:27,822 - INFO - Total frames: 892
+2024-09-08 23:16:27,822 - INFO - Frame interval (in frames): 149
+2024-09-08 23:16:27,854 - INFO - Extracted frame 0: ./output_frames/video_31/frame_0000.jpg
+2024-09-08 23:16:28,061 - INFO - Extracted frame 1: ./output_frames/video_31/frame_0001.jpg
+2024-09-08 23:16:28,250 - INFO - Extracted frame 2: ./output_frames/video_31/frame_0002.jpg
+2024-09-08 23:16:28,449 - INFO - Extracted frame 3: ./output_frames/video_31/frame_0003.jpg
+2024-09-08 23:16:28,625 - INFO - Extracted frame 4: ./output_frames/video_31/frame_0004.jpg
+2024-09-08 23:16:28,791 - INFO - Extracted frame 5: ./output_frames/video_31/frame_0005.jpg
+2024-09-08 23:16:28,937 - INFO - Extraction complete. Extracted 6 frames.
+2024-09-08 23:17:28,979 - WARNING - Not Found: /pred/output_videos/video_30.mp4
+2024-09-08 23:18:20,889 - WARNING - Not Found: /pred/output_videos/video_30.mp4
+2024-09-08 23:18:22,469 - WARNING - Not Found: /pred/output_videos/video_30.mp4
+2024-09-08 23:18:31,255 - WARNING - Not Found: /pred/output_videos/video_30.mp4
+2024-09-08 23:18:32,345 - WARNING - Not Found: /pred/output_videos/video_30.mp4
+2024-09-08 23:19:28,261 - WARNING - Not Found: /pred/output_videos/video_30.mp4
+2024-09-08 23:20:39,376 - WARNING - Not Found: /pred/output_videos/video_30.mp4
+2024-09-08 23:22:05,880 - INFO - /home/samer/Vidéos/roboflow/webapp/prediction/utils.py changed, reloading.
+2024-09-08 23:22:14,586 - INFO - Video opened: /home/samer/Vidéos/roboflow/webapp/ouput_videos/videos/test_vid_YQzy7p8.mp4
+2024-09-08 23:22:14,586 - INFO - Video FPS: 25.0
+2024-09-08 23:22:14,586 - INFO - Total frames: 13722
+2024-09-08 23:22:14,586 - INFO - Frame interval (in frames): 125
+2024-09-08 23:22:14,630 - INFO - Extracted frame 0: ./output_frames/video_32/frame_0000.jpg
+2024-09-08 23:22:14,814 - INFO - Extracted frame 1: ./output_frames/video_32/frame_0001.jpg
+2024-09-08 23:22:15,018 - INFO - Extracted frame 2: ./output_frames/video_32/frame_0002.jpg
+2024-09-08 23:22:15,225 - INFO - Extracted frame 3: ./output_frames/video_32/frame_0003.jpg
+2024-09-08 23:22:15,407 - INFO - Extracted frame 4: ./output_frames/video_32/frame_0004.jpg
+2024-09-08 23:22:15,610 - INFO - Extracted frame 5: ./output_frames/video_32/frame_0005.jpg
+2024-09-08 23:22:15,786 - INFO - Extracted frame 6: ./output_frames/video_32/frame_0006.jpg
+2024-09-08 23:22:16,092 - INFO - Extracted frame 7: ./output_frames/video_32/frame_0007.jpg
+2024-09-08 23:22:16,280 - INFO - Extracted frame 8: ./output_frames/video_32/frame_0008.jpg
+2024-09-08 23:22:16,447 - INFO - Extracted frame 9: ./output_frames/video_32/frame_0009.jpg
+2024-09-08 23:22:16,579 - INFO - Processed 1250 frames out of 13722
+2024-09-08 23:22:16,599 - INFO - Extracted frame 10: ./output_frames/video_32/frame_0010.jpg
+2024-09-08 23:22:16,757 - INFO - Extracted frame 11: ./output_frames/video_32/frame_0011.jpg
+2024-09-08 23:22:16,921 - INFO - Extracted frame 12: ./output_frames/video_32/frame_0012.jpg
+2024-09-08 23:22:17,056 - INFO - Extracted frame 13: ./output_frames/video_32/frame_0013.jpg
+2024-09-08 23:22:17,209 - INFO - Extracted frame 14: ./output_frames/video_32/frame_0014.jpg
+2024-09-08 23:22:17,376 - INFO - Extracted frame 15: ./output_frames/video_32/frame_0015.jpg
+2024-09-08 23:22:17,535 - INFO - Extracted frame 16: ./output_frames/video_32/frame_0016.jpg
+2024-09-08 23:22:17,701 - INFO - Extracted frame 17: ./output_frames/video_32/frame_0017.jpg
+2024-09-08 23:22:17,894 - INFO - Extracted frame 18: ./output_frames/video_32/frame_0018.jpg
+2024-09-08 23:22:18,047 - INFO - Extracted frame 19: ./output_frames/video_32/frame_0019.jpg
+2024-09-08 23:22:18,193 - INFO - Processed 2500 frames out of 13722
+2024-09-08 23:22:18,212 - INFO - Extracted frame 20: ./output_frames/video_32/frame_0020.jpg
+2024-09-08 23:22:18,376 - INFO - Extracted frame 21: ./output_frames/video_32/frame_0021.jpg
+2024-09-08 23:22:18,525 - INFO - Extracted frame 22: ./output_frames/video_32/frame_0022.jpg
+2024-09-08 23:22:18,666 - INFO - Extracted frame 23: ./output_frames/video_32/frame_0023.jpg
+2024-09-08 23:22:18,818 - INFO - Extracted frame 24: ./output_frames/video_32/frame_0024.jpg
+2024-09-08 23:22:18,998 - INFO - Extracted frame 25: ./output_frames/video_32/frame_0025.jpg
+2024-09-08 23:22:19,156 - INFO - Extracted frame 26: ./output_frames/video_32/frame_0026.jpg
+2024-09-08 23:22:19,328 - INFO - Extracted frame 27: ./output_frames/video_32/frame_0027.jpg
+2024-09-08 23:22:19,490 - INFO - Extracted frame 28: ./output_frames/video_32/frame_0028.jpg
+2024-09-08 23:22:19,645 - INFO - Extracted frame 29: ./output_frames/video_32/frame_0029.jpg
+2024-09-08 23:22:19,799 - INFO - Processed 3750 frames out of 13722
+2024-09-08 23:22:19,817 - INFO - Extracted frame 30: ./output_frames/video_32/frame_0030.jpg
+2024-09-08 23:22:19,982 - INFO - Extracted frame 31: ./output_frames/video_32/frame_0031.jpg
+2024-09-08 23:22:20,227 - INFO - Extracted frame 32: ./output_frames/video_32/frame_0032.jpg
+2024-09-08 23:22:20,386 - INFO - Extracted frame 33: ./output_frames/video_32/frame_0033.jpg
+2024-09-08 23:22:20,546 - INFO - Extracted frame 34: ./output_frames/video_32/frame_0034.jpg
+2024-09-08 23:22:20,703 - INFO - Extracted frame 35: ./output_frames/video_32/frame_0035.jpg
+2024-09-08 23:22:20,854 - INFO - Extracted frame 36: ./output_frames/video_32/frame_0036.jpg
+2024-09-08 23:22:21,022 - INFO - Extracted frame 37: ./output_frames/video_32/frame_0037.jpg
+2024-09-08 23:22:21,173 - INFO - Extracted frame 38: ./output_frames/video_32/frame_0038.jpg
+2024-09-08 23:22:21,314 - INFO - Extracted frame 39: ./output_frames/video_32/frame_0039.jpg
+2024-09-08 23:22:21,457 - INFO - Processed 5000 frames out of 13722
+2024-09-08 23:22:21,478 - INFO - Extracted frame 40: ./output_frames/video_32/frame_0040.jpg
+2024-09-08 23:22:21,653 - INFO - Extracted frame 41: ./output_frames/video_32/frame_0041.jpg
+2024-09-08 23:22:21,805 - INFO - Extracted frame 42: ./output_frames/video_32/frame_0042.jpg
+2024-09-08 23:22:21,970 - INFO - Extracted frame 43: ./output_frames/video_32/frame_0043.jpg
+2024-09-08 23:22:22,122 - INFO - Extracted frame 44: ./output_frames/video_32/frame_0044.jpg
+2024-09-08 23:22:22,288 - INFO - Extracted frame 45: ./output_frames/video_32/frame_0045.jpg
+2024-09-08 23:22:22,446 - INFO - Extracted frame 46: ./output_frames/video_32/frame_0046.jpg
+2024-09-08 23:22:22,600 - INFO - Extracted frame 47: ./output_frames/video_32/frame_0047.jpg
+2024-09-08 23:22:22,747 - INFO - Extracted frame 48: ./output_frames/video_32/frame_0048.jpg
+2024-09-08 23:22:22,904 - INFO - Extracted frame 49: ./output_frames/video_32/frame_0049.jpg
+2024-09-08 23:22:23,032 - INFO - Processed 6250 frames out of 13722
+2024-09-08 23:22:23,047 - INFO - Extracted frame 50: ./output_frames/video_32/frame_0050.jpg
+2024-09-08 23:22:23,194 - INFO - Extracted frame 51: ./output_frames/video_32/frame_0051.jpg
+2024-09-08 23:22:23,345 - INFO - Extracted frame 52: ./output_frames/video_32/frame_0052.jpg
+2024-09-08 23:22:23,503 - INFO - Extracted frame 53: ./output_frames/video_32/frame_0053.jpg
+2024-09-08 23:22:23,665 - INFO - Extracted frame 54: ./output_frames/video_32/frame_0054.jpg
+2024-09-08 23:22:23,812 - INFO - Extracted frame 55: ./output_frames/video_32/frame_0055.jpg
+2024-09-08 23:22:23,983 - INFO - Extracted frame 56: ./output_frames/video_32/frame_0056.jpg
+2024-09-08 23:22:24,145 - INFO - Extracted frame 57: ./output_frames/video_32/frame_0057.jpg
+2024-09-08 23:22:24,310 - INFO - Extracted frame 58: ./output_frames/video_32/frame_0058.jpg
+2024-09-08 23:22:24,493 - INFO - Extracted frame 59: ./output_frames/video_32/frame_0059.jpg
+2024-09-08 23:22:24,638 - INFO - Processed 7500 frames out of 13722
+2024-09-08 23:22:24,657 - INFO - Extracted frame 60: ./output_frames/video_32/frame_0060.jpg
+2024-09-08 23:22:24,807 - INFO - Extracted frame 61: ./output_frames/video_32/frame_0061.jpg
+2024-09-08 23:22:24,986 - INFO - Extracted frame 62: ./output_frames/video_32/frame_0062.jpg
+2024-09-08 23:22:25,143 - INFO - Extracted frame 63: ./output_frames/video_32/frame_0063.jpg
+2024-09-08 23:22:25,297 - INFO - Extracted frame 64: ./output_frames/video_32/frame_0064.jpg
+2024-09-08 23:22:25,466 - INFO - Extracted frame 65: ./output_frames/video_32/frame_0065.jpg
+2024-09-08 23:22:25,626 - INFO - Extracted frame 66: ./output_frames/video_32/frame_0066.jpg
+2024-09-08 23:22:25,773 - INFO - Extracted frame 67: ./output_frames/video_32/frame_0067.jpg
+2024-09-08 23:22:25,928 - INFO - Extracted frame 68: ./output_frames/video_32/frame_0068.jpg
+2024-09-08 23:22:26,087 - INFO - Extracted frame 69: ./output_frames/video_32/frame_0069.jpg
+2024-09-08 23:22:26,221 - INFO - Processed 8750 frames out of 13722
+2024-09-08 23:22:26,241 - INFO - Extracted frame 70: ./output_frames/video_32/frame_0070.jpg
+2024-09-08 23:22:26,390 - INFO - Extracted frame 71: ./output_frames/video_32/frame_0071.jpg
+2024-09-08 23:22:26,550 - INFO - Extracted frame 72: ./output_frames/video_32/frame_0072.jpg
+2024-09-08 23:22:26,710 - INFO - Extracted frame 73: ./output_frames/video_32/frame_0073.jpg
+2024-09-08 23:22:26,858 - INFO - Extracted frame 74: ./output_frames/video_32/frame_0074.jpg
+2024-09-08 23:22:27,025 - INFO - Extracted frame 75: ./output_frames/video_32/frame_0075.jpg
+2024-09-08 23:22:27,172 - INFO - Extracted frame 76: ./output_frames/video_32/frame_0076.jpg
+2024-09-08 23:22:27,368 - INFO - Extracted frame 77: ./output_frames/video_32/frame_0077.jpg
+2024-09-08 23:22:27,525 - INFO - Extracted frame 78: ./output_frames/video_32/frame_0078.jpg
+2024-09-08 23:22:27,685 - INFO - Extracted frame 79: ./output_frames/video_32/frame_0079.jpg
+2024-09-08 23:22:27,812 - INFO - Processed 10000 frames out of 13722
+2024-09-08 23:22:27,832 - INFO - Extracted frame 80: ./output_frames/video_32/frame_0080.jpg
+2024-09-08 23:22:27,986 - INFO - Extracted frame 81: ./output_frames/video_32/frame_0081.jpg
+2024-09-08 23:22:28,141 - INFO - Extracted frame 82: ./output_frames/video_32/frame_0082.jpg
+2024-09-08 23:22:28,287 - INFO - Extracted frame 83: ./output_frames/video_32/frame_0083.jpg
+2024-09-08 23:22:28,441 - INFO - Extracted frame 84: ./output_frames/video_32/frame_0084.jpg
+2024-09-08 23:22:28,605 - INFO - Extracted frame 85: ./output_frames/video_32/frame_0085.jpg
+2024-09-08 23:22:28,763 - INFO - Extracted frame 86: ./output_frames/video_32/frame_0086.jpg
+2024-09-08 23:22:28,932 - INFO - Extracted frame 87: ./output_frames/video_32/frame_0087.jpg
+2024-09-08 23:22:29,113 - INFO - Extracted frame 88: ./output_frames/video_32/frame_0088.jpg
+2024-09-08 23:22:29,255 - INFO - Extracted frame 89: ./output_frames/video_32/frame_0089.jpg
+2024-09-08 23:22:29,380 - INFO - Processed 11250 frames out of 13722
+2024-09-08 23:22:29,398 - INFO - Extracted frame 90: ./output_frames/video_32/frame_0090.jpg
+2024-09-08 23:22:29,554 - INFO - Extracted frame 91: ./output_frames/video_32/frame_0091.jpg
+2024-09-08 23:22:29,716 - INFO - Extracted frame 92: ./output_frames/video_32/frame_0092.jpg
+2024-09-08 23:22:29,854 - INFO - Extracted frame 93: ./output_frames/video_32/frame_0093.jpg
+2024-09-08 23:22:30,021 - INFO - Extracted frame 94: ./output_frames/video_32/frame_0094.jpg
+2024-09-08 23:22:30,176 - INFO - Extracted frame 95: ./output_frames/video_32/frame_0095.jpg
+2024-09-08 23:22:30,326 - INFO - Extracted frame 96: ./output_frames/video_32/frame_0096.jpg
+2024-09-08 23:22:30,508 - INFO - Extracted frame 97: ./output_frames/video_32/frame_0097.jpg
+2024-09-08 23:22:30,675 - INFO - Extracted frame 98: ./output_frames/video_32/frame_0098.jpg
+2024-09-08 23:22:30,817 - INFO - Extracted frame 99: ./output_frames/video_32/frame_0099.jpg
+2024-09-08 23:22:30,996 - INFO - Processed 12500 frames out of 13722
+2024-09-08 23:22:31,047 - INFO - Extracted frame 100: ./output_frames/video_32/frame_0100.jpg
+2024-09-08 23:22:31,523 - INFO - Extracted frame 101: ./output_frames/video_32/frame_0101.jpg
+2024-09-08 23:22:31,778 - INFO - Extracted frame 102: ./output_frames/video_32/frame_0102.jpg
+2024-09-08 23:22:31,964 - INFO - Extracted frame 103: ./output_frames/video_32/frame_0103.jpg
+2024-09-08 23:22:32,172 - INFO - Extracted frame 104: ./output_frames/video_32/frame_0104.jpg
+2024-09-08 23:22:32,390 - INFO - Extracted frame 105: ./output_frames/video_32/frame_0105.jpg
+2024-09-08 23:22:32,573 - INFO - Extracted frame 106: ./output_frames/video_32/frame_0106.jpg
+2024-09-08 23:22:32,763 - INFO - Extracted frame 107: ./output_frames/video_32/frame_0107.jpg
+2024-09-08 23:22:32,928 - INFO - Extracted frame 108: ./output_frames/video_32/frame_0108.jpg
+2024-09-08 23:22:33,072 - INFO - Extracted frame 109: ./output_frames/video_32/frame_0109.jpg
+2024-09-08 23:22:33,186 - INFO - Extraction complete. Extracted 110 frames.
+2024-09-08 23:33:10,365 - WARNING - Not Found: /pred/output_videos/video_30.mp4
+2024-09-08 23:33:29,193 - WARNING - Not Found: /pred/output_videos/video_30.mp4
+2024-09-08 23:33:51,091 - WARNING - Not Found: /pred/output_videos/video_30.mp4
+2024-09-08 23:36:43,931 - WARNING - Not Found: /pred/output_videos/video_30.mp4
+2024-09-08 23:36:49,574 - WARNING - Not Found: /pred/output_videos/video_30.mp4
+2024-09-08 23:37:12,176 - WARNING - Not Found: /pred/output_videos/video_30.mp4
+2024-09-08 23:37:13,251 - WARNING - Not Found: /pred/output_videos/video_30.mp4
+2024-09-08 23:37:13,902 - WARNING - Not Found: /pred/output_videos/video_30.mp4
+2024-09-08 23:37:47,923 - INFO - Video opened: /home/samer/Vidéos/roboflow/webapp/ouput_videos/videos/test_vid_PAwYvd8.mp4
+2024-09-08 23:37:47,923 - INFO - Video FPS: 29.97002997002997
+2024-09-08 23:37:47,924 - INFO - Total frames: 892
+2024-09-08 23:37:47,924 - INFO - Frame interval (in frames): 149
+2024-09-08 23:37:47,961 - INFO - Extracted frame 0: ./output_frames/video_33/frame_0000.jpg
+2024-09-08 23:37:48,138 - INFO - Extracted frame 1: ./output_frames/video_33/frame_0001.jpg
+2024-09-08 23:37:48,307 - INFO - Extracted frame 2: ./output_frames/video_33/frame_0002.jpg
+2024-09-08 23:37:48,478 - INFO - Extracted frame 3: ./output_frames/video_33/frame_0003.jpg
+2024-09-08 23:37:48,662 - INFO - Extracted frame 4: ./output_frames/video_33/frame_0004.jpg
+2024-09-08 23:37:48,839 - INFO - Extracted frame 5: ./output_frames/video_33/frame_0005.jpg
+2024-09-08 23:37:48,970 - INFO - Extraction complete. Extracted 6 frames.
